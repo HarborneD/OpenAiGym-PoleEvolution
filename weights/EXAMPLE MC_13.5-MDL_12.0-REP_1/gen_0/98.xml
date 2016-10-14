@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<NeuralNetwork>
+	<Layer>
+		<Node>
+			<Theta>0.39697870603204094</Theta>
+			<Weight>-0.33775466000449617</Weight>
+			<Weight>-0.16918288474807197</Weight>
+			<Weight>0.17678811317925186</Weight>
+			<Weight>-0.11462067099622886</Weight>
+		</Node>
+		<Node>
+			<Theta>0.3633677918704605</Theta>
+			<Weight>-0.3381382171041502</Weight>
+			<Weight>-0.3280144001193153</Weight>
+			<Weight>0.27670975075070275</Weight>
+			<Weight>0.40489153551359397</Weight>
+		</Node>
+	</Layer>
+	<Layer>
+		<Node>
+			<Theta>0.45091288409085395</Theta>
+			<Weight>-0.43155746550316043</Weight>
+			<Weight>-0.29263449738340025</Weight>
+		</Node>
+		<Node>
+			<Theta>0.4672904307212694</Theta>
+			<Weight>-0.36298185313459563</Weight>
+			<Weight>-0.3529766384295907</Weight>
+		</Node>
+	</Layer>
+</NeuralNetwork>
